@@ -1,4 +1,4 @@
-# Python-Learning-Notes
+# Python-Learning
 ### 作者：the-China（吴 * 润）
 ### 更多请参见：笔记文件夹、目录.md
 #### 该仓库持续更新中。。。
